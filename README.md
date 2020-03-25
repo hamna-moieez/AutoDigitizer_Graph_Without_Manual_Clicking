@@ -23,6 +23,12 @@ A digitizer tool for automatic extraction of graphical information and its conve
 
 
 ## Demo
+
+### Linear Line Graph
+---------------------------------------------------------------------------
 ![alttext](Demo/LinearLineGraph.gif?raw=true "LinearLineGraph")
+
+### Linear triangle Graph
+----------------------------------------------------------------------------
 ![alttext](Demo/LinearTriangleGraph.gif?raw=true "LinearLineGraph")
  
